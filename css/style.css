@@ -166,3 +166,11 @@ body {
     font-size: 14px !important;
     color: #FFFFFF !important;
 }
+
+@media screen and (max-width: 992px) {
+    .text1 {
+        display: flex !important;
+        align-items: baseline !important;
+        margin-bottom: 50px !important;
+    }
+}
